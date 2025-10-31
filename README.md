@@ -10,7 +10,10 @@ A fully functional **eCommerce web application** built with **React.js**, featur
 💾 Local Storage Support: Cart items and chatbot history are persisted even after page refresh.  
 
 
+
+
 🧰 Tech Stack
+
 Frontend: React.js, HTML, CSS, JavaScript  
 Storage: LocalStorage  
 State Management: React Context API  
